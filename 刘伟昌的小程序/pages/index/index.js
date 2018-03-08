@@ -49,7 +49,7 @@ Page({
     ***/
 
   onLoad: function () {
-    console.log('bbbbb')
+    console.log('ccccc')
     wx.getUserInfo({
       success:res=>{
         console.log(res)

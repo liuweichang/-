@@ -49,7 +49,8 @@ Page({
     ***/
 
   onLoad: function () {
-    console.log('eeee')
+    console.log('aaa')
+    console.log('lwcc')
     wx.getUserInfo({
       success:res=>{
         console.log(res)
